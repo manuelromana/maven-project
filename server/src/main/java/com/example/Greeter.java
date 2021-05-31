@@ -1,13 +1,13 @@
 package com.example;
 
-
-public class Greeter {
-  
-  /**
-  * this greeter method
+ /**
+  * class pour accueillir 
   * @author Manuel
   * 
   */
+public class Greeter {
+  
+ 
   public Greeter() {
 
   }
