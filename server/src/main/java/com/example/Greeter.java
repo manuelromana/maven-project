@@ -2,8 +2,12 @@ package com.example;
 
 
 public class Greeter {
-
   
+  /**
+  * this greeter method
+  * @author Manuel
+  * 
+  */
   public Greeter() {
 
   }
