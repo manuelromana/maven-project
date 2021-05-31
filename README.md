@@ -1,4 +1,4 @@
 # simple maven-project
 
-modif manu
+modif manu 2
  
