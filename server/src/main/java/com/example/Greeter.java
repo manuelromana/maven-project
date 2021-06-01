@@ -4,7 +4,6 @@ package com.example;
  * Ceci est ma class return.
  */
 public class Greeter {
-
 /** 
  * Ceci est mon constructeur.
  */
